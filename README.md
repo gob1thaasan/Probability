@@ -1,6 +1,6 @@
 # Probability
 
-This lecture is conducted for ecturers from Politeknik Sultan Mizan Zainal Abidin at UITM Dungun Hotel on 7/10/2020.
+This lecture is conducted for lecturers from Politeknik Sultan Mizan Zainal Abidin at UITM Dungun Hotel on 7/10/2020.
 
 Probability powerpoint covering the following topics:
 
